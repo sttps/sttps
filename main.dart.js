@@ -38307,7 +38307,7 @@ return new A.QN(new A.pc(B.ex,r),q,p,new A.pc(B.ex,r),A.b([],t.se),new A.oC("nam
 A.QN.prototype={
 N(a){var s=this,r=null,q="isi dengan lengkap",p=t.E,o=A.apK(A.b([new A.rw(new A.ajN(),new A.ajO(s,a),r,t.iX)],p),B.QD),n=A.bG(a,r,t.w).w,m=A.ark(!0,B.cj,!1,r,!0,B.a4,r,A.azZ(),s.d,r,r,r,r,r,2,A.xg(r,B.fK,r,r,r,r,r,r,!0,r,r,r,r,r,s.x?q:r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Nama Anda : ",r,r,r,r,r,r,r,r,r,r,r,r,r),B.aa,!0,r,!0,r,!1,s.ay,B.cB,r,r,r,r,r,r,r,1,r,r,!1,"\u2022",r,new A.ajP(s),r,r,r,!1,r,!1,r,!0,r,B.it,r,r,B.c8,B.bQ,r,r,r,r,r,r,r,B.aK,r,B.M1,r,r,r,r),l=t.s,k=t.H_,j=k.i("aG.E"),i=A.a8(new A.ak(A.b(["Anak-Anak","Dewasa Cowok","Dewasa Cewek","Polo","Lengan Panjang","Doplang"],l),new A.ajR(),k),!0,j)
 i=A.auy(s.e,i,new A.ajS(s),A.xg(r,B.fK,r,r,r,r,r,r,!0,r,r,r,r,r,s.y?q:r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Type/Jenis : ",r,r,r,r,r,r,r,r,r,r,r,r,r),s.ch)
-l=s.w?A.a8(new A.ak(A.b(["All Size","Plus Size"],l),new A.ajT(),k),!0,j):A.a8(new A.ak(A.b(["XS","S","M","L","XL","XXL","XXXL"],l),new A.ajU(),k),!0,j)
+l=s.w?A.a8(new A.ak(A.b(["All Size","Plus Size","Size Khusus"],l),new A.ajT(),k),!0,j):A.a8(new A.ak(A.b(["XS","S","M","L","XL","XXL","XXXL"],l),new A.ajU(),k),!0,j)
 l=A.auy(s.f,l,new A.ajV(s),A.xg(r,B.fK,r,r,r,r,r,r,!0,r,r,r,r,r,s.z?q:r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Size/Ukuran : ",r,r,r,r,r,r,r,r,r,r,r,r,r),r)
 k=A.ark(!0,B.cj,!1,r,!0,B.a4,r,A.azZ(),s.r,r,r,r,r,r,2,A.xg(r,B.fK,r,r,r,r,r,r,!0,r,r,r,r,r,s.Q?q:r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Jumlah : ",r,r,r,r,r,r,r,r,r,r,r,r,r),B.aa,!0,r,!0,r,!1,r,B.cB,r,r,r,B.Mj,r,r,r,1,r,r,!1,"\u2022",r,new A.ajW(s),r,r,r,!1,r,!1,r,!0,r,B.it,r,r,B.c8,B.bQ,r,r,r,r,r,r,r,B.aK,r,B.xN,r,r,r,r)
 j=A.auB(B.QE,s.as?new A.ajX(s):r)
