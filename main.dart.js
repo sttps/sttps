@@ -39687,7 +39687,7 @@ vF(){var s=0,r=A.J(t.z),q=this,p,o,n,m,l,k,j,i
 var $async$vF=A.F(function(a,b){if(a===1)return A.G(b,r)
 while(true)switch(s){case 0:i=A.b([],t.H7)
 for(p=q.at,o=p.length,n=t.N,m=t.z,l=0;l<p.length;p.length===o||(0,A.N)(p),++l){k=p[l]
-i.push(A.au(["nama",k.a,"jenis",k.b,"size",k.c,"jumlah",k.d,"total",k.e],n,m))}p=q.a.c.yV("baju")
+i.push(A.au(["nama",k.a,"jenis",k.b,"size",k.c,"jumlah",k.d],n,m))}p=q.a.c.yV("baju")
 n=A.dk(p.b,n,n)
 n.n(0,"Prefer","")
 j=p.acT(i)
